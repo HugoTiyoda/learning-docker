@@ -1,1 +1,1 @@
-Hello world
+Uma versao da rinha backend 2024 q1 (nao pretendo participar de uma, mas acho a ideia genial), onde vou usar ferramentas que utilizo e de acordo com a perfomance ver como otimizar o código de acordo com os cenarios pré estabelecidos. 
